@@ -3,3 +3,5 @@ notebook
 matplotlib
 seaborn
 scipy
+plotly
+cufflinks
