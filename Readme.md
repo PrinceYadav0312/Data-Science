@@ -87,6 +87,7 @@ and this repository represents every step of that journey.
 🤝 Connect with Me
 
 👤 Prince Kumar
-🔗 LinkedIn
 
-💻 GitHub
+🔗 My LinkedIn (https://www.linkedin.com/in/prince-kumar-139a032b6/)
+
+💻 X (https://x.com/PrinceY11966929)
