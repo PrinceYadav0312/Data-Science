@@ -88,6 +88,6 @@ and this repository represents every step of that journey.
 
 👤 Prince Kumar
 
-🔗 My LinkedIn (https://www.linkedin.com/in/prince-kumar-139a032b6/)
+🔗 [My LinkedIn](https://www.linkedin.com/in/prince-kumar-139a032b6/)
 
-💻 X (https://x.com/PrinceY11966929)
+💻 [X](https://x.com/PrinceY11966929)
