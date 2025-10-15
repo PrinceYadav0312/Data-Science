@@ -24,6 +24,7 @@ Seaborn	Advanced visualization & statistical plotting
 Statistics	Understanding data through measures, distributions, and tests
 
 🗂 Repository Structure
+
 Data-Science/
 │
 ├── 📁 Libraries_Learning/
@@ -86,6 +87,7 @@ and this repository represents every step of that journey.
 🤝 Connect with Me
 
 👤 Prince Kumar
-🔗 LinkedIn
 
-💻 GitHub
+🔗 [My LinkedIn](https://www.linkedin.com/in/prince-kumar-139a032b6/)
+
+💻 [X](https://x.com/PrinceY11966929)
